@@ -7,7 +7,7 @@ I am a dedicated software engineer with a strong foundation in Python developmen
 - **🐍 Developing cutting-edge solutions using [Python](https://www.python.org/)**: Bringing insights from backend development, automation, and everything Python enables into programming.
 - **🛡️ Security-focused development:** Implementing secure coding practices and building tools that prioritize safety and reliability.
 - **🔧 Open-source contributions:** Contributing to community projects and developing reusable libraries and tools.
-- **🚀 AI-driven startup initiatives:** Launching and developing AI-based startups, focusing on innovative solutions that artificial intelligence.
+- **🚀 AI-driven startup initiatives:** Focusing on innovative solutions that artificial intelligence.
 - **🤖 Automation projects:** Creating tools and scripts to streamline development workflows and eliminate repetitive tasks.
 RetryClaude can make mistakes. Please double-check responses.
 
