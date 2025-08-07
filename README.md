@@ -14,7 +14,7 @@ RetryClaude can make mistakes. Please double-check responses.
 ## 🌱 What I'm Learning
 - **🦀 Mastering [Rust](https://www.rust-lang.org/) for systems programming**: Focusing on memory safety and concurrency.
 - **🔧 Enhancing my expertise in [Linux](https://www.linux.org/)**: Deepening my understanding of operating systems and open-source tools.
-- **🧠 Understanding AI fundamentals:** Diving into machine learning algorithms like Q-learning, neural networks, and reinforcement learning.
+- **🧠 Understanding AI fundamentals:** Diving into machine learning algorithms like Q-learning and reinforcement learning.
 - **🔐 Exploring Cybersecurity:** Learning penetration testing, secure coding practices, system hardening techniques, and occasionally developing cybersecurity tools.
 - **🛠️ System Design**: Studying the architecture of large-scale systems to ensure scalability and reliability.
 - **🏛️ Software Architecture**: Learning best practices including Clean Architecture, modular design, microservices, event-driven architecture, and domain-driven design for maintainable and performant systems.
