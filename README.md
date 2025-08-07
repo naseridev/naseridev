@@ -4,7 +4,7 @@ I am a dedicated software engineer with a strong foundation in Python developmen
 
 ## 🔭 Currently Working On
 - **🦀 Building high-performance systems with [Rust](https://www.rust-lang.org/)**: Creating memory-safe, concurrent applications with zero-cost abstractions.
-- **🐍 Developing cutting-edge solutions using [Python](https://www.python.org/)**: Bringing insights from backend development, automation, and everything Python enables into programming.
+- **🐍 Building advanced [Python](https://www.python.org/) solutions**: Bringing insights from backend development, automation, and anything code can solve.
 - **🛡️ Security-focused development:** Implementing secure coding practices and building tools that prioritize safety and reliability.
 - **🔧 Open-source contributions:** Contributing to community projects and developing reusable libraries and tools.
 - **🚀 AI-driven startup initiatives:** Focusing on innovative solutions that artificial intelligence.
