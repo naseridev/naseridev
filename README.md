@@ -21,7 +21,7 @@ RetryClaude can make mistakes. Please double-check responses.
 - **📈 Self-improvement:** Continuously developing soft skills, leadership abilities, teamwork, effective communication, adaptability, innovation mindset, and personal growth through reading, reflection, and practical application.
 
 ## 🎯 Hobbies & Interests
-- **♟️ [Chess](https://www.chess.com/)**: Strategic thinking and tactical analysis through the royal game.
+- **♟️ [Chess](https://www.chess.com/member/malwareknight)**: Strategic thinking and tactical analysis through the royal game.
 - **🎵 [Music Production](https://en.wikipedia.org/wiki/Music_production)**: Creating and composing music, exploring different genres and production techniques.
 
 ## 💬 Ask Me About
