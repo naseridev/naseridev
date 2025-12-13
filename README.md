@@ -9,7 +9,6 @@ I am a dedicated software engineer with a strong foundation in Python developmen
 - **🔧 Open-source contributions:** Contributing to community projects and developing reusable libraries and tools.
 - **🚀 AI-driven startup initiatives:** Focusing on innovative solutions that artificial intelligence.
 - **🤖 Automation projects:** Creating tools and scripts to streamline development workflows and eliminate repetitive tasks.
-RetryClaude can make mistakes. Please double-check responses.
 
 ## 🌱 What I'm Learning
 - **🦀 Mastering [Rust](https://www.rust-lang.org/) for systems programming**: Focusing on memory safety and concurrency.
