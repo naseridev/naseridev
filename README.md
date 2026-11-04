@@ -1,4 +1,4 @@
-Hi, I'm Nima Naseri.
+# Hi, I'm Nima Naseri.
 
 I design and build things. From the low-level parts of a system up to the logic and the interface. Most of my time goes into figuring out why something should be built a certain way and where it is likely to break under pressure.
 
