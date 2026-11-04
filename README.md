@@ -1,35 +1,17 @@
-#  Nima Naseri
+Hi, I'm Nima Naseri.
 
-I am a dedicated software engineer with a strong foundation in Python development who has migrated to Rust as my primary specialization. My focus is on leveraging technology to create innovative solutions and explore new frontiers in software engineering.
+I design and build things. From the low-level parts of a system up to the logic and the interface. Most of my time goes into figuring out why something should be built a certain way and where it is likely to break under pressure.
 
-## 🔭 Currently Working On
-- **🦀 Building high-performance systems with [Rust](https://www.rust-lang.org/)**: Creating memory-safe, concurrent applications with zero-cost abstractions.
-- **🐍 Building advanced [Python](https://www.python.org/) solutions**: Bringing insights from backend development, automation, and anything code can solve.
-- **🛡️ Security-focused development:** Implementing secure coding practices and building tools that prioritize safety and reliability.
-- **🔧 Open-source contributions:** Contributing to community projects and developing reusable libraries and tools.
-- **🚀 AI-driven startup initiatives:** Focusing on innovative solutions that artificial intelligence.
-- **🤖 Automation projects:** Creating tools and scripts to streamline development workflows and eliminate repetitive tasks.
+Rust is my main language. I know Python and C well. I also know the web tools and frameworks (Next.js, TypeScript, Laravel and the rest), but they are just tools. I reach for them mostly when there is an actual product to ship and the commercial side matters.
 
-## 🌱 What I'm Learning
-- **🦀 Mastering [Rust](https://www.rust-lang.org/) for systems programming**: Focusing on memory safety and concurrency.
-- **🔧 Enhancing my expertise in [Linux](https://www.linux.org/)**: Deepening my understanding of operating systems and open-source tools.
-- **🧠 Understanding AI fundamentals:** Diving into machine learning algorithms like Q-learning and reinforcement learning.
-- **🔐 Exploring Cybersecurity:** Learning penetration testing, secure coding practices, system hardening techniques, and occasionally developing cybersecurity tools.
-- **🛠️ System Design**: Studying the architecture of large-scale systems to ensure scalability and reliability.
-- **🏛️ Software Architecture**: Learning best practices including Clean Architecture, modular design, microservices, event-driven architecture, and domain-driven design for maintainable and performant systems.
-- **📈 Self-improvement:** Continuously developing soft skills, leadership abilities, teamwork, effective communication, adaptability, innovation mindset, and personal growth through reading, reflection, and practical application.
+I have worked in computer science and engineering and I am comfortable with the core ideas. Mathematics and the basic sciences I only started recently. There is still a lot I do not know, and I am aware of that. I am reading from the ground up because without the foundations some claims are just noise.
 
-## 🎯 Hobbies & Interests
-- **♟️ [Chess](https://www.chess.com/member/malwareknight)**: Strategic thinking and tactical analysis through the royal game.
-- **🎵 [Music Production](https://en.wikipedia.org/wiki/Music_production)**: Creating and composing music, exploring different genres and production techniques.
+Information security is an area I have entered several times and then left for something else. I have not found the point that keeps me there yet, but I want to. Not out of excitement. Some problems only get solved properly when you look at them with a security mindset.
 
-## 💬 Ask Me About
-- **🦀 [Rust Development](https://www.rust-lang.org/):** Building high-performance, memory-safe systems and applications.
-- **🐍 [Python Development](https://www.python.org/about/)**: Leveraging Python for various applications.
-- **🔐 [Cybersecurity](https://en.wikipedia.org/wiki/Computer_security):** Secure coding practices, penetration testing, and developing security tools.
-- **🛠️ [Web Development](https://en.wikipedia.org/wiki/Web_development)**: Drawing from my experience with technologies like [Next.js](https://nextjs.org/) and [React.js](https://reactjs.org/).
-- **🧠 [Creative Problem Solving](https://en.wikipedia.org/wiki/Problem_solving)**: Innovative approaches to tackling complex challenges.
-- **🔍 [Critical Thinking](https://www.skillsyouneed.com/learn/critical-thinking.html)**: Analyzing and evaluating information effectively.
+I learn AI mainly to use it in other areas. I do not particularly like AI itself. What I like is building things with it that used to be impossible for years. That is the interesting part.
 
-## 📫 How to Reach Me
-- **Email:** [nerdnull@proton.me](mailto:nerdnull@proton.me)
+My work is building. Things that work, that are clear, and that still make sense years later when you look at why they were written that way. I would rather build one thing correctly than ten half-finished ones.
+
+Outside of this I play chess and make music.
+
+Email: nerdnull@proton.me
