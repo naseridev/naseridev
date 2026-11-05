@@ -1,45 +1,17 @@
-# Hi, I'm Nima Naseri.
+# Nima Naseri
 
-I design and build things.  
-From the low-level parts of a system up to the logic and the interface.  
-Most of my time goes into figuring out *why* something should be built a certain way and where it is likely to break under pressure.
+I design and build systems.  
+The interesting part is usually the tradeoffs: what to keep simple, what needs to be solid, and where things tend to break when real load hits.
 
-## Languages & Tools
+Rust is what I reach for most of the time.  
+Python and C are solid too.  
+I use the web stack (Next.js, TypeScript, Laravel and the rest) when there’s an actual product to ship.
 
-**Rust** is my main language.  
-I know Python and C well.  
-I also know the web tools and frameworks (Next.js, TypeScript, Laravel and the rest), but they are just tools.  
-I reach for them mostly when there is an actual product to ship and the commercial side matters.
+Right now I’m spending time on:
 
-## What I'm Working Through
+- Systems design, especially constraints and failure modes
+- Math and physics (still early, started not long ago)
+- Information security. I’ve gone in and out of it a few times. Still looking for the angle that sticks
+- AI, mostly as a tool for other things. The fun part is building stuff that used to feel impossible
 
-I have worked in computer science and engineering and I am comfortable with the core ideas.  
-
-Mathematics and the basic sciences I only started recently.  
-There is still a lot I do not know, and I am aware of that.  
-I am reading from the ground up because without the foundations some claims are just noise.
-
-### Information Security
-An area I have entered several times and then left for something else.  
-I have not found the point that keeps me there yet, but I want to.  
-Not out of excitement.  
-Some problems only get solved properly when you look at them with a security mindset.
-
-### AI
-I learn AI mainly to use it in other areas.  
-I do not particularly like AI itself.  
-What I like is building things with it that used to be impossible for years.  
-*That* is the interesting part.
-
-## Approach
-
-My work is building.  
-Things that work, that are clear, and that still make sense years later when you look at why they were written that way.  
-
-I would rather build one thing correctly than ten half-finished ones.
-
----
-
-Outside of this I play chess and make music.
-
-**Email:** nerdnull@proton.me
+Outside of work I play chess and make music.
